@@ -1,6 +1,6 @@
 # Satellite Image Semantic Segmentation
 
-This repository contains a deep learning project focused on performing semantic segmentation on satellite imagery (dataset from IGN). The project uses a neural network to classify each pixel in an image, labeling it as part of an object class such as buildings, roads, or vegetation.
+This repository contains a deep learning project focused on performing semantic segmentation on satellite imagery (dataset from IGN). The project uses a neural network to classify each pixel in an image, labeling it as part of an object class such as buildings, roads, or vegetation. The whole project has been built using Tensorflow with Keras.
 
 
 ## Model Architecture
