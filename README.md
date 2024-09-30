@@ -18,3 +18,5 @@ After training, the model is evaluated on the test dataset using as metric the  
 
 ## Results
 The notebook provides sample results, displaying segmented images with color-coded pixel predictions for each class.
+
+![Sample Segmentation Result](sample.png)
